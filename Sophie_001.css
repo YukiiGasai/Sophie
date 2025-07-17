@@ -177,6 +177,8 @@ ul.thin li {
     background: url(https://i.bj-share.info/55ec99c1fbd28b88abe634ff6b904e1e.gif) no-repeat top center; 
     background-color: rgb(20 20 20);
     width: 100%;
+    height: 300px;
+    margin-bottom: 200px;
     padding: 0;
    
 
@@ -189,7 +191,7 @@ ul.thin li {
     overflow: hidden;
     background: #0D1117;
     position: relative;
-    top: 60px;
+    top: 0px;
     
 }
 #wrapper {
@@ -340,7 +342,7 @@ ul.thin li {
 }
 #searchbars {
     position: absolute;
-    top: 421px;
+    top: 331px;
     width: 100%;
     text-align: center;
     padding: 4px 0;
@@ -422,7 +424,7 @@ ul.thin li {
     font-size: .99em;
     width: 390px;
     margin: auto;
-    margin-top: 65px;
+    margin-top: -20px;
     padding: 20px;
     border-radius: 50px;
     border: 1px solid #151B23;
